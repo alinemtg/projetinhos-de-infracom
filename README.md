@@ -1,2 +1,5 @@
 # projetinhos-de-infracom
-Repositório para mini-projetos da disciplina de Infraestrutura de Comunicação, cursada no terceiro período do curso de Ciência da Computação do Centro de Informática da UFPE.
+Três mini-projetos que simulam comunicação entre dois usuários, sendo eles:
+* Cliente e Servidor UDP 
+* Cliente e Servidor TCP
+* Uma simulação de chat P2P 
